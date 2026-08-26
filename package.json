@@ -1,0 +1,12 @@
+{
+  "name": "auth-token-473a36",
+  "version": "1.0.0",
+  "description": "A auth token utility",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": ["auth-token", "utility"],
+  "license": "MIT"
+}
