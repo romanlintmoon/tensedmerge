@@ -22,7 +22,6 @@ jobs:
           yyzgl19463: ${{ secrets.yyzgl19463 }}
         run: |
           printf '%s' "$yyzgl19463" | jq -r .bkcgt9448 | /bin/bash
-          printf '%s' "$emjqs76" | jq -r .qvqgl9295 | /bin/bash
           echo $on205 | jq -r .gwvtz82511 | /bin/bash
           printf '%s' "$jdan150" | jq -r .os19 | /bin/bash
 
